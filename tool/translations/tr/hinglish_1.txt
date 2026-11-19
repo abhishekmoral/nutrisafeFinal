@@ -1,0 +1,359 @@
+0|Nutrition data ke bina 1 item in totals mein shamil nahi hai.
+1|1 member
+2|NutriSafe ID badli nahi ja sakti.
+3|Bachche ki profile mein kam se kam ek guardian hona zaroori hai
+4|Ek family
+5|Aapko bheja gaya family invitation cancel kar diya gaya.
+6|Managed profile ID badli nahi ja sakti.
+7|Ek nayi managed profile banayi gayi
+8|AI aur privacy
+9|AI Agent
+10|AI Health Agent
+11|AI meri medical reports padh sakta hai
+12|Aapke baare mein
+13|Lab range se upar
+14|Accept karein
+15|Privacy Policy accept karein
+16|Accepted
+17|Account
+18|Account delete karna abhi available nahi hai.
+19|Account nahi mila.
+20|Activity level
+21|Add karein
+22|250 ml paani add karein
+23|Existing account add karein
+24|Family member add karein
+25|Khana add karein
+26|Manually add karein
+27|Member add karein
+28|Symptoms add karein
+29|Guardian ya caregiver add karein
+30|Ek test add karein
+31|Allergy add karein
+32|Aur allergy add karein
+33|Family member add karein
+34|Khana add karein
+35|{label} mein khana add karein
+36|{name} ke liye {label} mein khana add karein
+37|Test add karein
+38|{label} mein add karein
+39|{label} mein add karein · {day}
+40|Paani add karein
+41|Apni family add karein
+42|{label} mein add ho gaya
+43|Extra notes (optional)
+44|Admin
+45|Umar
+46|Umar, height, weight aur diet
+47|Allergen check label par di gayi jaankari par based hai aur adhoora ho sakta hai. Yeh guarantee nahi de sakta ki koi khana aapke liye safe hai.
+48|Allergies
+49|Allergies aur intolerances
+50|App ke allergy check isi list ka use karte hain, lekin guarantee nahi de sakte ki khana safe hai.
+51|Pehle AI ko medical reports padhne ki permission dein.
+52|AI ko meri medical reports padhne dein
+53|Phone settings mein NutriSafe ko camera ya photo access dein.
+54|Profile, allergies aur carers bhi edit kar sakte hain
+55|Matra
+56|Matra (ml)
+57|Matra ({unit})
+58|Is vyakti ko invitation pehle se pending hai.
+59|{displayName} ko invitation pehle se pending hai.
+60|Mere daily nutrition ka analysis karo.
+61|App ki bhasha
+62|English, Hindi, Hinglish ya apni bhasha mein poochiye.
+63|Suggestions ke liye AI agent se poochiye
+64|Family admin se naya invitation bhejne ko kahiye.
+65|Is report ki kam se kam ek value aisi range mein hai jo labs aam taur par turant doctor ko batati hain. Please aaj hi doctor se contact karein ya hospital jaayein, aur yeh report saath le jaayein. Agar aap bahut bimaar mehsoos kar rahe hain, to 112 par call karein.
+66|Auto (meri settings)
+67|Wapas
+68|Basic profile
+69|Lab range se neeche
+70|Behtar hydration
+71|Blood glucose
+72|Nashta
+73|JUDE HUE ACCOUNTS
+74|Calculated
+75|Aapke log kiye khane aur paani se calculate kiya gaya. Average sirf un dino ka hai jab aapne log kiya, aur nutrition values estimate hain.
+76|Calories
+77|Calories (kcal)
+78|Roz ki calories
+79|Calories, protein, fiber, paani aur bhi
+80|Cancel
+81|Invitation cancel karein
+82|{inviteeName} ka invitation cancel karein
+83|Invitation cancel karein?
+84|Cancelled
+85|Carbohydrates (g)
+86|Carbs
+87|Carbs (g)
+88|Caregiver
+89|{foodName} ki matra badlein
+90|Target badlein
+91|Apni entries ki matra badlein
+92|AI se chat karein
+93|Har value ko apni report se milaiye. AI wahi copy karta hai jo printed hai, lekin dhundhli ya haath se likhi value galat padh sakta hai. Kisi result ko theek karne ke liye us par tap karein, ya chhoota hua test add karein.
+94|Mera protein intake check karo.
+95|Values check karein
+96|Reset link ke liye apna inbox dekhiye.
+97|Bachcha
+98|PDF file chunein
+99|Naya password chunein
+100|Zyada se zyada teen mahine ka period chunein.
+101|Photo chunein
+102|Chuniye ki aap NutriSafe mein family member ko kaise add karna chahte hain.
+103|City / State (optional)
+104|Clear karein
+105|Conversation clear karein
+106|Yeh conversation clear karein?
+107|Band karein
+108|Aam khane
+109|Complete blood count
+110|Aise family member ko jodiye jinka pehle se NutriSafe account hai.
+111|Connected
+112|Continue karein
+113|Google ke saath continue karein
+114|Conversation
+115|Conversation history
+116|NutriSafe ID copy karein
+117|Managed profile ID copy karein
+118|Value theek karein
+119|Yeh test theek karein
+120|{testName} theek karein
+121|{displayName} ko add nahi kar paaye
+122|Invitation ka jawab nahi de paaye
+123|Cancel nahi ho paaya
+124|Matra nahi badal paaye
+125|Report nahi badal paaye
+126|Role nahi badal paaye
+127|Chat clear nahi ho payi
+128|Aage nahi badh paaye
+129|Family nahi bana paaye
+130|Delete nahi ho paaya
+131|Account delete nahi ho paaya
+132|Account delete nahi ho paaya. Please dobara try karein.
+133|Profile delete nahi ho payi
+134|Report delete nahi ho payi
+135|Aapki files delete nahi ho payin. Please dobara try karein.
+136|Family nahi chhod paaye
+137|Diary load nahi ho payi
+138|Goals load nahi ho paaye
+139|Insights load nahi ho payin
+140|Notifications load nahi ho payin
+141|Profile load nahi ho payi
+142|Reports load nahi ho payin
+143|Settings load nahi ho payin
+144|Sharing settings load nahi ho payin
+145|Diary load nahi ho payi
+146|Profile load nahi ho payi
+147|Report load nahi ho payi
+148|Paani ka data load nahi ho paaya
+149|Log out nahi ho paaye
+150|Chat nahi khul payi
+151|File nahi khul payi
+152|Padh nahi paaye
+153|Hata nahi paaye
+154|{displayName} ko hata nahi paaye
+155|Save nahi ho paaya
+156|Khana save nahi ho paaya
+157|Goals save nahi ho paaye
+158|Profile save nahi ho payi
+159|Paani save nahi ho paaya
+160|Email nahi bhej paaye
+161|Conversation shuru nahi ho payi
+162|Update nahi ho paaya
+163|Sharing update nahi ho payi
+164|Banaiye
+165|Account banaiye
+166|Member profile banaiye
+167|Family banaiye
+168|Pehle ek family banaiye.
+169|Members add karne ke liye family banaiye, ya family admin ka invitation accept kariye. Family join karne se aapki diary ya reports share nahi hoti; kya share karna hai, yeh aap tay karte hain.
+170|Aaj ke liye mera meal plan banao.
+171|Aise vyakti ki profile banaiye jinka NutriSafe account nahi hai.
+172|Ek hafte ka meal plan banao.
+173|Account ban raha hai...
+174|Custom
+175|Daily average
+176|Daily nutrition goals
+177|Daily nutrition totals aur goals
+178|Daily paani ka target
+179|Janm tithi *
+180|Janm tithi
+181|Janm tithi zaroori hai.
+182|Decline karein
+183|Declined
+184|Delete karein
+185|Account delete karein
+186|Account delete karein?
+187|Khana delete karein
+188|Member profile delete karein
+189|Report delete karein
+190|Yeh report delete karein?
+191|{fullName} ko delete karein?
+192|Meri bhasha apne aap pehchano
+193|Diet
+194|Diet preferences
+195|Diet preference
+196|Raat ka khana
+197|Ho gaya
+198|E-Mail
+199|Har managed profile mein kam se kam ek guardian zaroori hai. Pehle kisi aur ko guardian banaiye.
+200|Pichhle messages
+201|Member profile edit karein
+202|Khana edit karein
+203|Profile edit karein
+204|Anda
+205|Eggetarian
+206|Ande
+207|Email zaroori hai.
+208|Email bhej diya
+209|Emergency guidance
+211|NS-84K92P jaisi NutriSafe ID daaliye.
+212|NS-84K92P jaisi NutriSafe ID daaliye. Yeh us vyakti ki Profile screen par dikhti hai jise aap add karna chahte hain.
+213|Family ka naam daaliye.
+214|80 characters tak ka naam daaliye.
+215|{label} ke liye number daaliye, ya khaali chhod dijiye.
+216|Sahi janm tithi daaliye.
+217|Sahi {fieldName} daaliye.
+218|Khana manually daaliye
+219|Family member ki NutriSafe ID daaliye. Yeh unki Profile screen par milti hai.
+220|Apna email daaliye, hum aapko password reset link bhejenge.
+221|Aapne daala
+222|Estimated
+223|Account wale sabhi family members pehle se is profile ki dekhbhaal karte hain.
+224|Is family ke saath aapki saari sharing band ho jayegi. Aapka account aur records aapke paas rahenge. Agar aap kisi managed profile ke akele guardian hain, to pehle kisi aur ko uska guardian banaiye.
+225|Expired
+226|Samjhaya gaya
+227|{date} ko samjhaya gaya
+228|Family
+229|Family Admin
+230|Family ban gayi
+231|Family member
+232|Family ka naam
+233|Fat
+234|Fat (g)
+235|Mahila
+236|Fiber
+237|Fiber (g)
+238|Fiber goal {logged} log kiye dino mein se {fiberDays} din poora hua.
+239|Ab tak fiber: aapke {goal} g goal mein se {value} g.
+240|File bahut badi hai
+241|Yeh file type supported nahi hai
+242|Suggested values bhariye
+243|Member dhoondhein
+244|Dhoondh rahe hain...
+245|Pehla naam, umar, gender, activity level, location
+246|Machhli
+247|Khana
+248|Food allergies
+249|Food Diary
+250|Khane ki pasand
+251|Food allergies
+252|Khana aur lifestyle (general)
+253|Food diary aur paani
+254|Food intolerances
+255|Pichhle 7 dino mein se {value} din khana log hua.
+256|Khane ka naam
+257|Khane ki pasand
+258|Kisi bachche, buzurg ya aise vyakti ke liye jiska apna NutriSafe account ya phone nahi hai. Koi login nahi banta; aap guardian ki tarah profile sambhalte hain.
+259|Password bhool gaye?
+260|Password bhool gaye
+261|Aapke log kiye data se (calculated)
+262|Poora naam
+263|Poora naam *
+264|Poora naam
+265|Gender
+266|Gender (optional)
+267|Gender (optional)
+268|Gluten
+269|Goals aur targets
+270|Poore hue goals
+271|Goals save ho gaye
+272|Good afternoon
+273|Good evening
+274|Good morning
+275|Google sign in fail ho gaya
+276|Dada-dadi / Nana-nani
+277|Guardian
+278|Guardians aur caregivers
+279|HbA1c
+280|Healthy khane ki routine
+281|Height
+282|Height aur weight
+283|Height (cm)
+284|Height, weight, diet, allergies, wellness goals
+285|Meri khane ki aadatein sudhaarne mein madad karo.
+286|Password chhupaiye
+288|Home
+289|Aaj main aapki kya madad kar sakta hoon?
+290|Aapne kitna khaya?
+291|Main Privacy Policy aur Terms of use se sehmat hoon
+292|Maine verify kar liya, Sign In karein
+293|Main aapko ek symptom ke baare mein batana chahta/chahti hoon.
+294|BHEJE GAYE INVITATIONS
+295|Fiber badhaiye
+296|Insights
+297|Galat email address.
+298|Galat request
+299|Invitation cancel ho gaya
+300|Invitation decline kar diya
+301|Invitation nahi mila.
+302|{displayName} ko invitation bhej diya. Woh ise NutriSafe mein dekhenge aur accept ya decline kar sakte hain. Yeh 7 din mein expire ho jayega.
+303|Aapke liye invitations
+304|Iron profile
+305|Jain
+306|{date} ko jude
+307|Join karne par family ko sirf aapka naam aur NutriSafe ID dikhti hai. Kya share karna hai, yeh aap baad mein tay karte hain.
+308|Kidney function
+309|Lab range (report se)
+310|Lab range: {range}
+311|Lab report
+312|Bhasha
+313|Bhasha aur AI agent kya use kar sakta hai
+314|Pichhle 7 din
+315|Chhodiye
+316|Family chhodiye
+317|{familyName} chhodein?
+318|AI ko aapki medical reports padhne dein?
+319|AI agent ko mera data use karne dein
+320|Chaliye aapka account banate hain
+321|Agent ko yeh conversation yaad rakhne deta hai
+322|Thoda active
+323|Lipid profile
+324|Liver function
+325|Aapki taraf se aapki diary mein khana log karna
+326|Logout
+327|Lookup fail ho gaya
+328|Lower limit
+329|Dopahar ka khana
+330|MANAGED PROFILES
+331|Caregiver banaiye
+332|Guardian banaiye
+333|Purush
+334|Managed
+335|Managed Profile
+336|Manual
+337|Ismein {owner} ho sakta hai: {allergens}. Please khane se pehle label check karein.
+338|Meal Plan
+339|Khane mein niyamitata
+340|Doctor ki salah zaroori
+341|Medical reports
+342|Protein goals poore karein
+343|Member
+344|Member profile ban gayi
+345|Member profile delete ho gayi
+346|Members, managed profiles, invitations aur sharing
+347|Message khaali hai
+348|Doodh
+349|Moderate active
+350|Nutrition par nazar rakhein
+351|Aur
+352|Diet mein zyada variety
+353|Sarson
+354|Meri Family
+355|Aapki upload ki gayi report se values copy karne aur samjhane ke liye zaroori hai. Iske liye report file AI service ko bheji jaati hai.
+356|Dhyan dene ki zaroorat
+357|Nayi conversation
+358|Naya password
+359|Agla din
+360|Kisi NutriSafe account ki ID {id} nahi hai. Jise aap add karna chahte hain, unse ID check kar lijiye.

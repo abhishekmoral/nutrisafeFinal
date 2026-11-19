@@ -1,0 +1,359 @@
+361|Kisi NutriSafe account ki yeh ID nahi hai.
+362|PDF files kholne ke liye koi app nahi mila
+363|Connection nahi hai. Internet check karke dobara try karein.
+364|Koi daily target set nahi hai
+365|Koi details nahi bhari gayi.
+366|Is hafte abhi tak koi khana log nahi hua. Insights dekhne ke liye apne meals add karein.
+367|Internet connection nahi hai.
+368|Koi lab range printed nahi hai
+369|Koi managed profile nahi.
+370|Koi managed profile nahi. Bina account wale bachche ya buzurg ko jodne ke liye "Member add karein" use karein.
+371|Kuch nahi mila. Ise khud add karne ke liye "Manual" use karein.
+372|Abhi koi notification nahi.
+373|Add karne ke liye koi nahi
+374|Abhi koi aur member nahi.
+375|Koi pichhli conversation nahi
+376|Abhi koi report nahi
+377|Alag account ya device ki zaroorat nahi
+378|Abhi koi value nahi. Inhe type karne ke liye "Test add karein" use karein.
+379|Aaj koi paani log nahi hua
+380|Non-vegetarian
+381|Kuch record nahi
+382|Allowed nahi hai.
+383|Authenticated nahi
+384|Abhi padhi nahi gayi
+385|Sign in nahi hai
+386|Notes
+387|Kuch log nahi
+388|Aaj kuch log nahi hua.
+389|Abhi kuch log nahi
+390|Compare karne ke liye kuch nahi
+391|Notifications
+392|Notifications, {value} unread
+393|NutriSafe Account
+394|NutriSafe Account · {nutrisafeId}
+395|NutriSafe ID
+396|NutriSafe ID copy ho gayi
+397|NutriSafe general, educational nutrition jaankari deta hai. Yeh bimaari diagnose nahi karta, dawa nahi likhta aur doctor ki jagah nahi leta. Agar symptoms serious hain, bane rehte hain ya aapko chinta hai, to please doctor se miliye.
+398|NutriSafe user
+399|Nutrition
+400|Nutrition data: {label}
+401|Is khane ka nutrition pata nahi hai. Ise bina values ke save kiya jayega aur yeh aapke totals mein nahi ginega.
+402|Is matra ka nutrition
+403|Nutrition pata nahi
+404|Nutrition values estimate hain, jab tak verified na likha ho.
+405|Sirf family admin members add kar sakta hai.
+406|Sirf family admin managed profiles bana sakta hai.
+407|Yeh sirf family admin kar sakta hai
+408|Is profile ki details sirf iske guardians aur caregivers dekh sakte hain. Kisi guardian se aapko add karne ko kahiye.
+409|Sirf aapka naam zaroori hai. Baaki sab optional hai aur baad mein badla ja sakta hai.
+410|Accept ya decline karne ke liye NutriSafe mein Family kholiye.
+411|Aapke saath kya share hua hai, dekhne ke liye NutriSafe mein Family kholiye.
+412|Apne family members dekhne ke liye NutriSafe mein Family kholiye.
+413|Diary kholiye
+414|Humare bheje email ka link kholiye, ya is screen se naya email bhejiye.
+415|Naya password chunne ke liye email mein diya link kholiye.
+416|Original file kholiye
+417|{displayName} ki food diary kholiye
+418|{fullName} ki food diary kholiye
+419|Optional. Label par ho to wahan se copy karein. Jo value nahi pata, woh field khaali chhod dein.
+420|{displayName} ke options
+421|Other
+422|Doosri allergies
+423|P {value} g
+424|PDF reports 10 MB tak ho sakti hain.
+425|PDF, JPG ya PNG. Photo ke liye page ko achchhi roshni mein seedha rakhiye taaki har value saaf dikhe.
+426|Packaged product search abhi available nahi hai.
+427|Packaged products
+428|Mata-pita
+429|Password
+430|Password reset email bhej diya
+431|Password zaroori hai.
+432|Password kam se kam 8 characters ka hona chahiye.
+433|Password mein kam se kam ek letter hona chahiye.
+434|Password mein kam se kam ek number hona chahiye.
+435|Password update ho gaya
+436|Moongfali
+437|Moongfali
+438|Pending
+439|Permission chahiye
+440|Personal jaankari
+441|Personal details
+442|Pescatarian
+443|Report ki photo
+444|Photos 3.7 MB tak ho sakti hain. Photo dobara lijiye ya PDF upload kariye.
+445|Please apna inbox check kariye.
+446|Please PDF, JPG ya PNG file chuniye.
+447|Please dobara try karein ya doosri file chuniye.
+448|Camera ko pack ke barcode par rakhiye. Kuch bhi save hone se pehle aap matra confirm karenge.
+449|Batana nahi chahte
+450|Pichhla din
+451|Default roop se private. Medical reports yahan se kabhi share nahi hoti.
+452|Product lookup fail ho gaya ({statusCode}). Please dobara try karein.
+453|Product nahi mila
+454|Product search fail ho gaya ({statusCode}). Please dobara try karein.
+455|Profile
+456|Profile ID copy ho gayi
+457|Profile update ho gayi
+458|Profile, allergies, food diary, symptoms aur goals jawab personalise karne ke liye use hote hain. Medical reports ke liye alag permission chahiye. Aap ise kabhi bhi Settings mein band kar sakte hain.
+459|Progress logs
+460|Protein
+461|Protein (g)
+462|Protein goal {logged} log kiye dino mein se {proteinDays} din poora hua.
+463|Ab tak protein: aapke {goal} g goal mein se {value} g.
+464|Matra
+465|Quick actions
+466|Yeh report padhiye
+467|Padhna poora nahi hua. Please dobara try karein.
+468|Aapki report padhi ja rahi hai...
+469|Padh rahe hain...
+470|Rishta
+471|Rishta (optional)
+472|Hataiye
+473|Apni diary se entries hataiye
+474|Entry hataiye
+475|Family se hataiye
+476|Yeh khana hatayein?
+477|Yeh test hatayein?
+478|{displayName} ko hatayein?
+479|{foodName} hataiye
+480|{testName} hataiye
+481|Reply ki bhasha
+482|Report
+483|Report ki date {date}
+484|Report delete ho gayi
+485|Report nahi mili
+486|Bataye gaye symptoms
+487|Email dobara bhejiye
+488|Result
+489|Save karein
+490|Changes save karein
+491|Goals save karein
+492|Password save karein
+493|Save ho raha hai...
+494|Scan
+495|Product scan karein
+496|Product scan karein
+497|Product barcode scan karein
+498|Seafood
+499|Khana search karein, packaged product scan karein, ya manually daaliye.
+500|Khana search karein, jaise roti, chawal, दही
+501|Sedentary (kam active)
+502|Profile dekhte hain aur uski food diary rakhte hain
+503|Chuniye
+504|Laagu allergies chuniye.
+505|Bhejiye
+506|Invitation bhejiye
+507|Bhej rahe hain...
+508|Comma se alag karein, jaise Lactose, teekha khana
+509|Comma se alag karein, jaise Til, Sarson
+510|Til
+511|Target set karein
+512|Apni profile set up karein
+513|Ise family admin ke saath share kariye taaki woh aapko add kar sakein.
+514|{displayName} ne aapke saath share kiya
+515|Shellfish
+516|Password dikhaiye
+517|Bhai-behen
+518|Sign In
+519|Sign in fail ho gaya
+520|Sign up fail ho gaya
+521|Sign in ho raha hai...
+522|Abhi skip karein
+523|Snacks
+524|Taaki suggestions mein inse bacha jaaye
+525|Sodium
+526|Sodium (mg)
+527|Sodium limit (mg)
+528|Report padhte waqt kuch gadbad ho gayi. Please dobara try karein.
+529|Aapka data save karte waqt kuch gadbad ho gayi. Please dobara try karein.
+530|Kuch gadbad ho gayi.
+531|Kuch gadbad ho gayi. Please dobara try karein.
+532|Source: {source}
+533|Soya
+534|Pati / patni / partner
+535|Dekhbhaal band karein
+536|{fullName} ki dekhbhaal band karein?
+537|Submit karein
+538|Cheeni
+539|Cheeni (g)
+540|Behtar digestion ke liye khane suggest karo.
+541|Aapke record kiye symptoms
+542|Photo lijiye
+543|Test ka naam
+544|AI agent sahi se configure nahi hai (AI API key reject ho gayi).
+545|AI agent abhi configure nahi hai (server par AI API key nahi hai).
+546|AI yeh report nahi padh paaya.
+547|AI ne jawab nahi diya. Please dobara try karein.
+548|AI ne explanation nahi di. Please dobara try karein.
+549|AI service yeh report process nahi kar payi.
+550|AI service busy hai. Please ek minute baad try karein.
+551|AI service abhi available nahi hai. Please dobara try karein.
+552|Agent ko sirf wahi cheezein milti hain jo aap on karte hain. Medical reports ki permission neeche alag hai.
+553|Agent usi bhasha mein jawab deta hai jismein aap likhte hain
+554|Camera available nahi hai. Phone settings mein camera access dein, ya khana manually daaliye.
+555|Explanation save nahi ho payi. Please dobara try karein.
+556|File, uski values aur explanation hamesha ke liye delete ho jayengi. Yeh wapas nahi ho sakta.
+557|Messages hamesha ke liye delete ho jayenge.
+558|Kisi record ka owner badla nahi ja sakta
+559|Jise aapne invite kiya tha, unhone invitation decline kar diya.
+560|Profile, uski food diary, allergies aur baaki sabhi records sabke liye hamesha ke liye delete ho jayenge. Yeh wapas nahi ho sakta.
+561|Request mein bahut time laga. Please dobara try karein.
+562|Service abhi available nahi hai. Please dobara try karein.
+563|Yeh aapke personal targets hain. Suggested values aapki profile se nikle general estimates hain, medical advice nahi. Jise track nahi karna, woh field khaali chhod dein. Agar aapko koi medical condition hai, to wahi targets rakhiye jo aapke doctor ya dietitian ne diye hain.
+564|Woh family chhod denge aur aap dono ke beech saari sharing band ho jayegi. Unka account aur records unke paas rahenge.
+565|Unhe invitation milega aur unhe accept karna hoga. Join karne se aapko unke data ka access nahi milta; kya share karna hai, yeh woh tay karte hain.
+566|Soch raha hoon...
+567|Yeh pehle se maujood hai.
+568|Ismein ek minute tak lag sakta hai. Aap yeh screen chhod sakte hain; tayyar hone par result save ho jayega.
+569|Yeh explanation aapki report ki values se AI dwara likhi general jaankari hai. Yeh diagnosis nahi hai. Lab range se bahar ki value apne aap mein yeh nahi batati ki aapko koi bimaari hai. Please apne results doctor se discuss karein.
+570|Yeh image dikhayi nahi ja sakti.
+571|Yeh invitation expire ho gaya hai
+572|Yeh invitation ab open nahi hai.
+573|Yeh invitation ab pending nahi hai.
+574|Yeh aap hain. Kisi aur member ko kholkar chuniye ki aap unke saath kya share karte hain.
+575|Yeh aapki apni NutriSafe ID hai.
+576|Yeh member {name} ka akela guardian hai. Pehle kisi aur family member ko {name} ka guardian banaiye.
+577|Yeh vyakti pehle se aapki family mein hai.
+578|Is report mein abhi samjhane ke liye koi result nahi hai.
+579|Yeh report abhi padhi ja rahi hai. Refresh karne ke liye neeche kheenchiye.
+580|Yeh report ek baar mein padhne ke liye bahut lambi hai.
+581|Yeh report nahi mili.
+582|Thyroid profile
+583|Values copy karne aur samjhane ke liye report file humari AI service (Anthropic ka Claude) ko bheji jaati hai. Yeh baaki AI permissions se alag hai. Aapki reports private rehti hain aur family ke saath kabhi share nahi hoti. Aap ise kabhi bhi band kar sakte hain.
+584|Account banane ke liye aapko Privacy Policy aur Terms of Use accept karni hongi.
+585|Aaj
+586|Aaj (log kiye khane se calculated)
+587|Aaj ki entries
+588|Aaj ke meals
+589|Aaj ka overview
+590|Bahut zyada attempts. Please ek ghante baad try karein.
+591|Jinki aap dekhbhaal karte hain, unke khane aur allergies par nazar rakhiye.
+592|Weight track karein
+593|Apna khana track karein, apni health samjhein, apni family ka khayal rakhein.
+594|Tree nuts (meve)
+595|Tree nuts (meve)
+596|Dobara try karein
+597|Dobara padhne ki koshish karein
+598|Confirm karne ke liye DELETE type karein
+599|Bilkul waise hi type karein jaisa report par printed hai.
+600|Values main khud type karunga/karungi
+601|Apna sawaal type karein...
+602|Unit
+603|Pata nahi
+604|Report upload karein
+605|Blood test ya koi aur lab report upload kariye aur uski values aasaan bhasha mein samjhiye.
+606|Lab report upload karein
+607|Upload fail ho gaya
+608|Lab reports upload karein aur unki values ka matlab dekhein
+609|Report upload karein
+610|{date} ko upload hui
+611|Upload ho raha hai...
+612|Upper limit
+613|Har screen aur AI replies ke liye use hoti hai
+614|Portion aur goal suggestions ke liye use hota hai
+615|Sirf regional food suggestions ke liye use hota hai
+616|Unki unique NutriSafe ID se
+617|Values ({count})
+618|Values sahi hain, samjhaiye
+619|Vegan
+620|Vegetarian
+621|Vegetarian, vegan, wagairah.
+622|Verified
+623|Apna email address verify kariye!
+624|Pehle apna email verify kariye
+625|Bahut active
+626|Sab dekhiye
+627|Allergies dekhiye
+628|Food diary dekhiye
+629|Insights dekhiye
+630|Sirf dekhne ke liye. {name} ne aapko khana add karne ki permission nahi di hai.
+631|Profile dekhiye
+632|Vitamin B12
+633|Vitamin D
+634|Paani
+635|Paani (ml)
+636|Paani ki zaroorat har vyakti mein alag hoti hai. Apne liye sahi target set kariye; agar aapko kidney ya heart ki problem hai, to fluids par apne doctor ki salah maniye.
+637|Ab tak paani: aapke {goal} ml target mein se {value} ml.
+638|Humne aapke email par verification link bheja hai. Account activate karne ke liye use kholiye, phir continue kariye.
+639|Weight
+640|Weight (kg)
+641|Weight aur check-in history
+642|Welcome back,
+643|Wellness goals
+644|Wellness goals aur daily nutrition targets
+645|AI agent kya use kar sakta hai
+646|Aapne kya aur kab log kiya
+647|Pichhle kuch dino mein aapne kya log kiya
+648|Aap {displayName} ke saath kya share karte hain
+649|Aapke results ka matlab
+650|Gehun / Gluten
+651|Lab range ke andar
+652|Iske bina bhi aap reports upload kar sakte hain aur values khud type kar sakte hain.
+653|Explanation likhi ja rahi hai...
+654|AI dwara likha gaya · sirf educational
+655|AAPKI NUTRISAFE ID
+656|Kal (beeta hua)
+657|Aap
+658|Aap pehle se ek family mein hain. Yeh invitation accept karne se pehle use chhodiye.
+659|Aap pehle se ek family mein hain. Nayi family banane se pehle use chhodiye.
+660|Aap caregiver hain
+661|Aap guardian hain
+662|Aap abhi kisi family mein nahi hain
+663|Aaj ke goals par aap sahi track par hain.
+664|Aap Family Admin hain
+665|Aap label se details khud daal sakte hain.
+666|Aapko yeh karne ki permission nahi hai.
+667|Aapke liye ek family invitation hai
+668|Aapne pichhle ek ghante mein bahut saari reports analyse ki hain. Please baad mein try karein.
+669|Aapne aaj koi khana log nahi kiya hai.
+670|Aapko family invitation mila hai
+671|Aapne pichhle ek ghante mein bahut saare messages bheje hain. Please baad mein try karein.
+672|Aapke liye {value} family invitations hain
+673|Aap {family} mein jud gaye
+674|Aapne family chhod di
+675|Ab aap yeh profile nahi dekh payenge. Har profile mein kam se kam ek guardian hamesha rehta hai.
+676|Aapki allergies aur intolerances
+677|Aapki family data permissions update hui hain
+678|Aapka family invitation accept ho gaya
+679|Aapka family invitation decline ho gaya
+680|Aapka invitation cancel ho gaya
+681|Aapki profile
+682|Aapki profile, food diary, medical reports, AI conversations aur bachchon ki profiles hamesha ke liye delete ho jayengi. Yeh wapas nahi ho sakta.
+683|Aapki reports private rakhi jaati hain. Sirf aap unhe dekh sakte hain.
+685|cup (240 ml)
+686|is hafte khana log wale din
+687|jaise 180, <0.5, Positive
+688|jaise Sharma Family
+689|glass (250 ml)
+690|katori (150 ml)
+691|aapke {value} ml target mein se
+692|ya inse sign in karein
+693|ya inse sign up karein
+694|per 100 g
+695|per 100 ml
+696|per package
+697|per serving
+698|family
+699|lower limit
+700|upper limit
+701|aapka allergen
+702|Nutrition data ke bina {count} items in totals mein shamil nahi hain.
+703|{count} members
+704|{day}: log nahi hua
+705|{day}: {value} millilitre
+706|{displayName} (aap)
+707|{displayName} ne aapke saath kuch share nahi kiya hai. Jab tak woh aapke liye sharing on nahi karte, unka data private rehta hai.
+708|{displayName} pehle se aapki family mein hain.
+709|{displayName} ko hata diya gaya
+710|{displayName} ab yeh profile nahi dekh payenge.
+711|{fieldName} zaroori hai.
+712|{fieldName} {value} aur {value2} ke beech hona chahiye.
+713|{foodName} ({quantityLabel}) aapki diary se hata diya jayega.
+714|{foodName} ({quantityLabel}) {name} ki diary se hata diya jayega.
+715|{invitedByName} ne aapko invite kiya · {date} ko expire
+716|{inviteeName} ab ise accept nahi kar payenge.
+717|{name} ka allergen
+718|{name} ki food diary
+719|{nutrisafeId} · {date} ko bheja
+720|{testName} is report ki values se hata diya jayega.
